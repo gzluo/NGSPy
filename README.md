@@ -15,5 +15,7 @@ git pull origin master
 #git commit -m 'delete test files'
 #git push origin master
 
-
+#create branch testing
+git branch testing
+git checkout testing
 
